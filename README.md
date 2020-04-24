@@ -1,12 +1,12 @@
 # Audio Visualizer
 
-Audio visualizer .mp4 creation program from .wav.
+Python code for audio visualizer .mp4 file creation from .wav.
 
 ## demo
 
-https://youtu.be/Jfj2bUCi17I
+["Water Drop" Trailer - Sounds Cocktail](https://youtu.be/Jfj2bUCi17I)
 
-(Overlay the generated visualization movie on the original movie)
+(Overlaying the generated visualization movie on the original movie)
 
 ## Usage
 
